@@ -1,0 +1,206 @@
+Dependencies for Project 'Baloon1', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Src\main.c)(0x55DB4E0F)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I "C:\Program Files\Keil460\ARM\RV31\INC" -I "C:\Program Files\Keil460\ARM\CMSIS\Include" -I "C:\Program Files\Keil460\ARM\Inc\ST\STM32L1xx" -o ".\Obj\main.o" --omf_browse ".\Obj\main.crf" --depend ".\Obj\main.d")
+I (Src\main.h)(0x55BAA432)
+I (Src\Beacon_board.h)(0x55DB0497)
+I (Src\system_stm32l1xx.h)(0x55C69668)
+I (Src\stm32l1xx.h)(0x5485B306)
+I (Src\core_cm3.h)(0x544E450E)
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB118D4)
+I (C:\Program Files\Keil460\ARM\CMSIS\Include\core_cmInstr.h)(0x5059A2DC)
+I (C:\Program Files\Keil460\ARM\CMSIS\Include\core_cmFunc.h)(0x4FDADAAC)
+I (Src\USART.h)(0x55DB1233)
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\stdio.h)(0x4EB118D6)
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\string.h)(0x4EB118D6)
+I (Src\Serial.h)(0x5485863A)
+I (Src\i2c.h)(0x54CE4418)
+I (Src\gps.h)(0x55DB1B6B)
+I (Src\Timers.h)(0x54C92CC8)
+I (Src\Si446x.h)(0x54C7F9CC)
+I (Src\Si446x_def.h)(0x547D9ED8)
+I (Src\SPI.h)(0x5489DF26)
+I (Src\RTC.h)(0x55C64F7E)
+F (.\Src\system_stm32l1xx.c)(0x55DB56E1)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I "C:\Program Files\Keil460\ARM\RV31\INC" -I "C:\Program Files\Keil460\ARM\CMSIS\Include" -I "C:\Program Files\Keil460\ARM\Inc\ST\STM32L1xx" -o ".\Obj\system_stm32l1xx.o" --omf_browse ".\Obj\system_stm32l1xx.crf" --depend ".\Obj\system_stm32l1xx.d")
+I (Src\system_stm32l1xx.h)(0x55C69668)
+I (Src\Beacon_board.h)(0x55DB0497)
+I (Src\stm32l1xx.h)(0x5485B306)
+I (Src\core_cm3.h)(0x544E450E)
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB118D4)
+I (C:\Program Files\Keil460\ARM\CMSIS\Include\core_cmInstr.h)(0x5059A2DC)
+I (C:\Program Files\Keil460\ARM\CMSIS\Include\core_cmFunc.h)(0x4FDADAAC)
+I (Src\main.h)(0x55BAA432)
+I (Src\serial.h)(0x5485863A)
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\stdio.h)(0x4EB118D6)
+I (Src\i2c.h)(0x54CE4418)
+I (Src\gps.h)(0x55DB1B6B)
+I (Src\USART.h)(0x55DB1233)
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\string.h)(0x4EB118D6)
+I (Src\Timers.h)(0x54C92CC8)
+I (Src\Si446x.h)(0x54C7F9CC)
+I (Src\Si446x_def.h)(0x547D9ED8)
+I (Src\SPI.h)(0x5489DF26)
+I (Src\RTC.h)(0x55C64F7E)
+F (.\Src\Retarget.c)(0x4F587126)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I "C:\Program Files\Keil460\ARM\RV31\INC" -I "C:\Program Files\Keil460\ARM\CMSIS\Include" -I "C:\Program Files\Keil460\ARM\Inc\ST\STM32L1xx" -o ".\Obj\retarget.o" --omf_browse ".\Obj\retarget.crf" --depend ".\Obj\retarget.d")
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\stdio.h)(0x4EB118D6)
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\rt_misc.h)(0x4EB118D0)
+I (Src\Serial.h)(0x5485863A)
+F (.\Src\Serial.c)(0x55BAA3BA)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I "C:\Program Files\Keil460\ARM\RV31\INC" -I "C:\Program Files\Keil460\ARM\CMSIS\Include" -I "C:\Program Files\Keil460\ARM\Inc\ST\STM32L1xx" -o ".\Obj\serial.o" --omf_browse ".\Obj\serial.crf" --depend ".\Obj\serial.d")
+I (Src\stm32l1xx.h)(0x5485B306)
+I (Src\core_cm3.h)(0x544E450E)
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB118D4)
+I (C:\Program Files\Keil460\ARM\CMSIS\Include\core_cmInstr.h)(0x5059A2DC)
+I (C:\Program Files\Keil460\ARM\CMSIS\Include\core_cmFunc.h)(0x4FDADAAC)
+I (Src\system_stm32l1xx.h)(0x55C69668)
+I (Src\Beacon_board.h)(0x55DB0497)
+I (Src\main.h)(0x55BAA432)
+I (Src\serial.h)(0x5485863A)
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\stdio.h)(0x4EB118D6)
+I (Src\i2c.h)(0x54CE4418)
+I (Src\gps.h)(0x55DB1B6B)
+I (Src\USART.h)(0x55DB1233)
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\string.h)(0x4EB118D6)
+I (Src\Timers.h)(0x54C92CC8)
+I (Src\Si446x.h)(0x54C7F9CC)
+I (Src\Si446x_def.h)(0x547D9ED8)
+I (Src\SPI.h)(0x5489DF26)
+I (Src\RTC.h)(0x55C64F7E)
+F (.\Src\startup_stm32l1xx_mdp.s)(0x54C92D30)(--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1" -I "C:\Program Files\Keil460\ARM\RV31\INC" -I "C:\Program Files\Keil460\ARM\CMSIS\Include" -I "C:\Program Files\Keil460\ARM\Inc\ST\STM32L1xx" --list ".\Lst\startup_stm32l1xx_mdp.lst" --xref -o ".\Obj\startup_stm32l1xx_mdp.o" --depend ".\Obj\startup_stm32l1xx_mdp.d")
+F (.\Src\SPI.c)(0x5489DF26)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I "C:\Program Files\Keil460\ARM\RV31\INC" -I "C:\Program Files\Keil460\ARM\CMSIS\Include" -I "C:\Program Files\Keil460\ARM\Inc\ST\STM32L1xx" -o ".\Obj\spi.o" --omf_browse ".\Obj\spi.crf" --depend ".\Obj\spi.d")
+I (Src\SPI.h)(0x5489DF26)
+I (Src\stm32l1xx.h)(0x5485B306)
+I (Src\core_cm3.h)(0x544E450E)
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB118D4)
+I (C:\Program Files\Keil460\ARM\CMSIS\Include\core_cmInstr.h)(0x5059A2DC)
+I (C:\Program Files\Keil460\ARM\CMSIS\Include\core_cmFunc.h)(0x4FDADAAC)
+I (Src\system_stm32l1xx.h)(0x55C69668)
+I (Src\Beacon_board.h)(0x55DB0497)
+I (Src\main.h)(0x55BAA432)
+I (Src\serial.h)(0x5485863A)
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\stdio.h)(0x4EB118D6)
+I (Src\i2c.h)(0x54CE4418)
+I (Src\gps.h)(0x55DB1B6B)
+I (Src\USART.h)(0x55DB1233)
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\string.h)(0x4EB118D6)
+I (Src\Timers.h)(0x54C92CC8)
+I (Src\Si446x.h)(0x54C7F9CC)
+I (Src\Si446x_def.h)(0x547D9ED8)
+I (Src\RTC.h)(0x55C64F7E)
+F (.\Src\Si446x.c)(0x54C7FB0C)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I "C:\Program Files\Keil460\ARM\RV31\INC" -I "C:\Program Files\Keil460\ARM\CMSIS\Include" -I "C:\Program Files\Keil460\ARM\Inc\ST\STM32L1xx" -o ".\Obj\si446x.o" --omf_browse ".\Obj\si446x.crf" --depend ".\Obj\si446x.d")
+I (Src\Si446x.h)(0x54C7F9CC)
+I (Src\stm32l1xx.h)(0x5485B306)
+I (Src\core_cm3.h)(0x544E450E)
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB118D4)
+I (C:\Program Files\Keil460\ARM\CMSIS\Include\core_cmInstr.h)(0x5059A2DC)
+I (C:\Program Files\Keil460\ARM\CMSIS\Include\core_cmFunc.h)(0x4FDADAAC)
+I (Src\system_stm32l1xx.h)(0x55C69668)
+I (Src\Beacon_board.h)(0x55DB0497)
+I (Src\main.h)(0x55BAA432)
+I (Src\serial.h)(0x5485863A)
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\stdio.h)(0x4EB118D6)
+I (Src\i2c.h)(0x54CE4418)
+I (Src\gps.h)(0x55DB1B6B)
+I (Src\USART.h)(0x55DB1233)
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\string.h)(0x4EB118D6)
+I (Src\Timers.h)(0x54C92CC8)
+I (Src\SPI.h)(0x5489DF26)
+I (Src\Si446x_def.h)(0x547D9ED8)
+I (Src\RTC.h)(0x55C64F7E)
+F (.\Src\Timers.c)(0x55DB4D8F)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I "C:\Program Files\Keil460\ARM\RV31\INC" -I "C:\Program Files\Keil460\ARM\CMSIS\Include" -I "C:\Program Files\Keil460\ARM\Inc\ST\STM32L1xx" -o ".\Obj\timers.o" --omf_browse ".\Obj\timers.crf" --depend ".\Obj\timers.d")
+I (Src\Timers.h)(0x54C92CC8)
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\stdio.h)(0x4EB118D6)
+I (Src\Serial.h)(0x5485863A)
+I (Src\stm32l1xx.h)(0x5485B306)
+I (Src\core_cm3.h)(0x544E450E)
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB118D4)
+I (C:\Program Files\Keil460\ARM\CMSIS\Include\core_cmInstr.h)(0x5059A2DC)
+I (C:\Program Files\Keil460\ARM\CMSIS\Include\core_cmFunc.h)(0x4FDADAAC)
+I (Src\system_stm32l1xx.h)(0x55C69668)
+I (Src\Beacon_board.h)(0x55DB0497)
+I (Src\main.h)(0x55BAA432)
+I (Src\i2c.h)(0x54CE4418)
+I (Src\gps.h)(0x55DB1B6B)
+I (Src\USART.h)(0x55DB1233)
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\string.h)(0x4EB118D6)
+I (Src\Si446x.h)(0x54C7F9CC)
+I (Src\Si446x_def.h)(0x547D9ED8)
+I (Src\SPI.h)(0x5489DF26)
+I (Src\RTC.h)(0x55C64F7E)
+F (.\Src\USART.c)(0x55DB35CC)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I "C:\Program Files\Keil460\ARM\RV31\INC" -I "C:\Program Files\Keil460\ARM\CMSIS\Include" -I "C:\Program Files\Keil460\ARM\Inc\ST\STM32L1xx" -o ".\Obj\usart.o" --omf_browse ".\Obj\usart.crf" --depend ".\Obj\usart.d")
+I (Src\USART.h)(0x55DB1233)
+I (Src\stm32l1xx.h)(0x5485B306)
+I (Src\core_cm3.h)(0x544E450E)
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB118D4)
+I (C:\Program Files\Keil460\ARM\CMSIS\Include\core_cmInstr.h)(0x5059A2DC)
+I (C:\Program Files\Keil460\ARM\CMSIS\Include\core_cmFunc.h)(0x4FDADAAC)
+I (Src\system_stm32l1xx.h)(0x55C69668)
+I (Src\Beacon_board.h)(0x55DB0497)
+I (Src\main.h)(0x55BAA432)
+I (Src\serial.h)(0x5485863A)
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\stdio.h)(0x4EB118D6)
+I (Src\i2c.h)(0x54CE4418)
+I (Src\gps.h)(0x55DB1B6B)
+I (Src\Timers.h)(0x54C92CC8)
+I (Src\Si446x.h)(0x54C7F9CC)
+I (Src\Si446x_def.h)(0x547D9ED8)
+I (Src\SPI.h)(0x5489DF26)
+I (Src\RTC.h)(0x55C64F7E)
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\string.h)(0x4EB118D6)
+F (.\Src\I2C.c)(0x54C827D0)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I "C:\Program Files\Keil460\ARM\RV31\INC" -I "C:\Program Files\Keil460\ARM\CMSIS\Include" -I "C:\Program Files\Keil460\ARM\Inc\ST\STM32L1xx" -o ".\Obj\i2c.o" --omf_browse ".\Obj\i2c.crf" --depend ".\Obj\i2c.d")
+I (Src\i2c.h)(0x54CE4418)
+I (Src\Beacon_board.h)(0x55DB0497)
+I (Src\stm32l1xx.h)(0x5485B306)
+I (Src\core_cm3.h)(0x544E450E)
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB118D4)
+I (C:\Program Files\Keil460\ARM\CMSIS\Include\core_cmInstr.h)(0x5059A2DC)
+I (C:\Program Files\Keil460\ARM\CMSIS\Include\core_cmFunc.h)(0x4FDADAAC)
+I (Src\system_stm32l1xx.h)(0x55C69668)
+I (Src\main.h)(0x55BAA432)
+I (Src\serial.h)(0x5485863A)
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\stdio.h)(0x4EB118D6)
+I (Src\gps.h)(0x55DB1B6B)
+I (Src\USART.h)(0x55DB1233)
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\string.h)(0x4EB118D6)
+I (Src\Timers.h)(0x54C92CC8)
+I (Src\Si446x.h)(0x54C7F9CC)
+I (Src\Si446x_def.h)(0x547D9ED8)
+I (Src\SPI.h)(0x5489DF26)
+I (Src\RTC.h)(0x55C64F7E)
+F (.\Src\GPS.c)(0x55DB4E20)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I "C:\Program Files\Keil460\ARM\RV31\INC" -I "C:\Program Files\Keil460\ARM\CMSIS\Include" -I "C:\Program Files\Keil460\ARM\Inc\ST\STM32L1xx" -o ".\Obj\gps.o" --omf_browse ".\Obj\gps.crf" --depend ".\Obj\gps.d")
+I (Src\gps.h)(0x55DB1B6B)
+I (Src\Beacon_board.h)(0x55DB0497)
+I (Src\stm32l1xx.h)(0x5485B306)
+I (Src\core_cm3.h)(0x544E450E)
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB118D4)
+I (C:\Program Files\Keil460\ARM\CMSIS\Include\core_cmInstr.h)(0x5059A2DC)
+I (C:\Program Files\Keil460\ARM\CMSIS\Include\core_cmFunc.h)(0x4FDADAAC)
+I (Src\system_stm32l1xx.h)(0x55C69668)
+I (Src\main.h)(0x55BAA432)
+I (Src\serial.h)(0x5485863A)
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\stdio.h)(0x4EB118D6)
+I (Src\i2c.h)(0x54CE4418)
+I (Src\usart.h)(0x55DB1233)
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\string.h)(0x4EB118D6)
+I (Src\Si446x.h)(0x54C7F9CC)
+I (Src\Si446x_def.h)(0x547D9ED8)
+I (Src\SPI.h)(0x5489DF26)
+I (Src\Timers.h)(0x54C92CC8)
+I (Src\RTC.h)(0x55C64F7E)
+F (.\Src\RTC.c)(0x55C71D06)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I "C:\Program Files\Keil460\ARM\RV31\INC" -I "C:\Program Files\Keil460\ARM\CMSIS\Include" -I "C:\Program Files\Keil460\ARM\Inc\ST\STM32L1xx" -o ".\Obj\rtc.o" --omf_browse ".\Obj\rtc.crf" --depend ".\Obj\rtc.d")
+I (Src\RTC.h)(0x55C64F7E)
+I (Src\stm32l1xx.h)(0x5485B306)
+I (Src\core_cm3.h)(0x544E450E)
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB118D4)
+I (C:\Program Files\Keil460\ARM\CMSIS\Include\core_cmInstr.h)(0x5059A2DC)
+I (C:\Program Files\Keil460\ARM\CMSIS\Include\core_cmFunc.h)(0x4FDADAAC)
+I (Src\system_stm32l1xx.h)(0x55C69668)
+I (Src\Beacon_board.h)(0x55DB0497)
+I (Src\main.h)(0x55BAA432)
+I (Src\serial.h)(0x5485863A)
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\stdio.h)(0x4EB118D6)
+I (Src\i2c.h)(0x54CE4418)
+I (Src\gps.h)(0x55DB1B6B)
+I (Src\USART.h)(0x55DB1233)
+I (C:\Program Files\Keil460\ARM\ARMCC\bin\..\include\string.h)(0x4EB118D6)
+I (Src\Timers.h)(0x54C92CC8)
+I (Src\Si446x.h)(0x54C7F9CC)
+I (Src\Si446x_def.h)(0x547D9ED8)
+I (Src\SPI.h)(0x5489DF26)
